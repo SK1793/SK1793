@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=SK1793)](https://github.com/ryo-ma/github-profile-trophy)
+
+![SK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK1793&show_icons=true&theme=transparent)
 <!--
 **SK1793/SK1793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
