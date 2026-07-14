@@ -9,8 +9,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f32?style=flat&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-fek?style=flat&logo=Android&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-e33434?style=flat&logo=Angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-7818de?style=flat&logo=Laravel&logoColor=white)
 <!--
 **SK1793/SK1793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
