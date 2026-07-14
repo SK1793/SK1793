@@ -1,7 +1,16 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=SK1793)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+![Repo Activity](https://img.shields.io/github/commit-activity/m/SK1793/SK1793?label=Repo%20Activity)
+-->
 
-![SK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SK1793&show_icons=true&theme=transparent)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=SK1793&label=Profile%20Views&color=blue)
+
+### 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 <!--
 **SK1793/SK1793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
