@@ -5,7 +5,7 @@
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=SK1793&label=Profile%20Views&color=blue)
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
